@@ -1,8 +1,8 @@
-EA textures/shreck_chad_1.xpm
+EA textures/gold.xpm
  WE textures/wood.xpm
    C 255,25,100
-       SO textures/patrick2.xpm
-     NO textures/bob.xpm
+       SO textures/cobble.xpm
+     NO textures/dirt.xpm
 
 F 10,100,10
 
@@ -12,5 +12,18 @@ F 10,100,10
 1011001
 1000001
 1000W01
+1000001
+1001001
+1011011
+1011111
+1011111
+1000001
+1111101
+1110001
+1110111
+1110111
+1000001
+1000001
+1000001
 1000001
 1111111
